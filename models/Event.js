@@ -30,3 +30,5 @@ eventSchema.method('toJSON', function() {
 });
 
 module.exports = model( 'Event', eventSchema );
+
+//test
